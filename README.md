@@ -4,6 +4,8 @@
 
 L’objectif est d’élaborer un boitier dans lequel est caché un module RFID pour enregistrer automatiquement des cartes qui seraient posées dessus.
 
+Vidéo du projet : <https://www.tiktok.com/@__hakii__/video/7248215816989166875>
+
 # I- **Conception electronique**
 
 Pour concevoir le projet, j’ai opté pour l’utilisation d’une carte Nodemcu car je disposais d’un câble micro USB C plus petit et plus souple que celui d’une carte Arduino Nano.
